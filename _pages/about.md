@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Benji. I research interactive intelligent tools for equitable computing education."
+title: "Hi, I'm Benji. I research human-AI tools for equitable computing education."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the University of Washington Information School, advised by Prof. [Andrew J. Ko][ajko] in the Code & Cognition Lab. 
-My research interest is in developing mixed-initiative interactions to enable more equitable intelligent learning technologies.
+I am a Ph.D. candidate at the University of Washington Information School, advised by Prof. [Amy J. Ko][ajko] in the Code & Cognition Lab. 
+My research vision is that diverse learners have the support they need to fulfill their curiosities relating to computing. I share my research with the fields of _human-computer interaction_ and _computing education_ (although I often draw upon other fields including _artifical intelligence_, _learning sciences_, and _educational measurements_).
 
-A data-driven personal website
+Active Projects
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
